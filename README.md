@@ -21,4 +21,3 @@
     
   </div>
     
-    [![readme](https://github-readme-stats.vercel.app/api/pin/?username=LuiscarlosReis&repo=LuiscarlosReis&theme=react)](https://github.com/LuiscarlosReis/LuiscarlosReis)
