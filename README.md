@@ -1,7 +1,7 @@
 ## Oiii! Eu sou o Luís Reis
 
 - 🔭 Atualmente sou estudante de Ciências da Computação
-- 🌱 Estudando HTML5, CSS3 e Javascript E JAVA 
+- 🌱 Estudando HTML5, CSS3  E JAVA 
 
 <div>
   <a href="https://github.com/LuiscarlosReis">
